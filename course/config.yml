@@ -1,0 +1,19 @@
+course:
+  name: ""
+  module: ""
+  submission_deadline: ""
+
+github:
+  classroom_assignment: ""
+  organization: ""
+
+review:
+  expected_team_size: 3
+  draft_pr_reviews_only: true
+  submit_reviews: false
+
+paths:
+  submissions: submissions/
+  reviews: reviews/
+  rubric: course/rubric.md
+  roster: course/roster.csv
