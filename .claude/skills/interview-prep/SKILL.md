@@ -6,8 +6,10 @@ argument-hint: <tag> <team>
 
 # Team Assessment / Interview Preparation
 
-Using the preliminary assessment in `reviews/<tag>/<team>/`, prepare a small
-number of high-value questions for the instructor's team interview.
+Using the preliminary assessment in `reviews/<tag>/<team>/` and the
+instructor's earlier feedback in `reviews/<earlier tag>/<team>/instructor-assessment.md`,
+prepare a small number of high-value questions for the instructor's team
+interview.
 
 The purpose is to examine things that repository evidence cannot establish.
 
