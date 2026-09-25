@@ -191,3 +191,20 @@ Never:
 - treat activity counts as proof of learning.
 
 The instructor makes all consequential academic decisions.
+
+## Diary and agent log
+
+The kit is itself under study, so every session leaves a trace.
+
+- `research/diary.md` is the instructor's. Never write the instructor's
+  thoughts, impressions or conclusions there. At the end of a review session,
+  ask the instructor the diary questions for that step and add only what they
+  say, marked with the date and submission tag.
+- `research/agent-log.md` is yours. At the end of every session, append one
+  entry in the format described at the top of that file, including every
+  change you made to this file, `.claude/skills/`, `course/config.yml` or rubric
+  metadata, and why.
+- `reviews/<tag>/<team>/instructor-assessment.md` holds the instructor's
+  final decision as recorded in the LMS. Use it as earlier feedback when
+  reviewing later tags (for example, whether the team acted on it), and never
+  edit it.
