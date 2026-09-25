@@ -69,7 +69,9 @@ students may be questioned → instructor decides → instructor submits feedbac
 
 - `AGENTS.md` — persistent instructions for grading agents
 - `course/` — assignment, rubric, roster and configuration
-- `prompts/` — focused review tasks
+- `.claude/skills/` — one skill per review step (procedural pass, cross-team
+  criterion, draft PR review, collaboration, issue health, interview prep,
+  finalize)
 - `docs/` — instructor documentation and evidence model
 - `analytics/` — reproducible Git/GitHub metrics
 - `research/` — research notes and teaching diary
